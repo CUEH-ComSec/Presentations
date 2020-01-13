@@ -1,0 +1,44 @@
+  
+<html>
+
+<head>
+    <title>ilovestegano</title>
+</head>
+
+<body>
+    <h1>quick intro to stegano</h1>
+    <i><h3>by ya boi Ziemni</h3></i>
+    <br>
+    <br>
+    <h3>CLI:</h3>
+    - metadata<br>
+    - cat<br>
+    - strings<br>
+    - convert <br>
+    <br>
+    <h3>Tools:</h3>
+    - binwalk<br>
+    - stegsolve<br>
+    - steghide<br>
+    - - steg_brute.py<br>
+    - audacity<br>
+    - spek (spek.cc)(Acoustic Spectrum Analyser)<br>
+    - Image (PIL) library for python<br>
+    <br>
+    <h3>Methods:</h3>
+    - cat >> image.jpg <br>
+    - metadata<br>
+    - png/gif comments<br>
+    - Least Significant Bit<br>
+    - alpha mask<br>
+    - image noise<br>
+    - stereogram (stereoscopy)<br>
+    - image frequency domains (Discrete Fourier Transform)<br>
+    - etc<br>
+    <br>
+    <h3>Challenges:</h3>
+    - HTB -> Stegano<br>
+    - ringzer0 -> Steganography<br>
+</body>
+
+</html>
